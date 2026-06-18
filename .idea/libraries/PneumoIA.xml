@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PneumoIA">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PneumoIA.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
