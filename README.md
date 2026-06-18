@@ -50,19 +50,19 @@ Sans ce dataset, l'entraînement ne peut pas fonctionner.
 
 La page d'accueil présente le projet et permet de démarrer une analyse. On y retrouve une démonstration du résultat du modèle et l'explication de l'agent IA.
 
-![Page d'accueil](captures/accueil.png)
+![Page d'accueil](captures/accueil.PNG)
 
 ### Page d'analyse (téléversement)
 
 Une zone d'upload unique : déposer **une seule** radiographie lance une analyse détaillée, **plusieurs** radiographies lancent une analyse par lot.
 
-![Page de téléversement](captures/televersement.png)
+![Page de téléversement](captures/televersement.PNG)
 
 ### Résultat et carte de chaleur
 
 Le diagnostic s'affiche avec son score de confiance. La carte de chaleur (générée par occlusion) met en évidence les zones de la radiographie qui ont le plus influencé la décision du modèle (rouge = forte influence, bleu = faible influence).
 
-![Résultat de l'analyse](captures/resultat.png)
+![Résultat de l'analyse](captures/resultat.PNG)
 
 ---
 
